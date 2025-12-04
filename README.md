@@ -7,7 +7,7 @@
 | **VS Code** | IDE | `Open Source` | `Free` |
 | **Android Studio** | IDE | `Open Core` | `Free` |
 | **adb** | Utility | `Open Source` | `Free` |
-| Git | Utility | Open Source | Free |
+| **Git** | Utility | `Open Source` | `Free` |
 | **Oh-My-Posh** | Aesthetic | `Open Source` | `Free` |
 | **Python** | Language | `Open Source` | `Free` |
 | **C / C++** | Language | `Standard` | `Free` |
