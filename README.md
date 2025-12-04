@@ -82,6 +82,6 @@
 
 ## Media
 
-| Tool | Type | License | Cost | LIink | Description |
-| :--- | :--- | :--- | :--- | :--- |
+| Tool | Type | License | Cost | Link | Description |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | **FMHY** | Resource | `Public` | `Free` | [Website](https://fmhy.net/) | Wiki for piracy safety |
