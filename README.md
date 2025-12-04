@@ -46,7 +46,16 @@
 
 | Tool | Type | License | Cost |
 | :--- | :--- | :--- | :--- |
-| **Audacity** | Audio | `Open Source` | `Free` |
+| **VLC** | Media Player | `Open Source` | `Free` |
+| **YT ReVanced** | Android Client | `Open Source` | `Free` |
+| **Audacity** | Audio Editor | `Open Source` | `Free` |
+| **DaVinci Resolve** | Video Editor | `Proprietary` | `Free` |
+| **Handbrake** | Video Transcoder | `Open Source` | `Free` |
+| **OBS Studio** | Screen Recorder | `Open Source` | `Free` |
+| **GIMP** | Image Editor | `Open Source` | `Free` |
+| **Photopea** | Web Image Editor | `Proprietary` | `Free` |
+| **Inkscape** | Vector Graphics | `Open Source` | `Free` |
+
 
 ## Lifestyle
 
