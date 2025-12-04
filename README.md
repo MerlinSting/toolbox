@@ -79,6 +79,7 @@
 | Tool | Type | License | Cost |
 | :--- | :--- | :--- | :--- |
 | **Actual Budget** | Finance | `Open Source` | `Free` |
+| **Paperless-ngx** | Documents | `Open Source` | `Free` |
 
 ## Media
 
