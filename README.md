@@ -16,8 +16,25 @@
 
 | Tool | Type | License | Cost |
 | :--- | :--- | :--- | :--- |
+| **Proxmox VE** | Hypervisor | `Open Source` | `Free` |
+| **TrueNAS** | NAS | `Open Source` | `Free` |
 | **Docker** | Virtualization | `Open Source` | `Free` |
-| **RustDesk** | Remote Access | `Open Source` | `Free` |
+| **Portainer** | Container Management | `Open Source` | `Free` |
+| **RustDesk** | Remote Desktop | `Open Source` | `Free` |
+| **AnyDesk** | Remote Desktop | `Proprietary` | `Free` |
+| **Tailscale** | Mesh VPN | `Proprietary` | `Free` |
+| **Headscale** | Mesh VPN | `Open Source` | `Free` |
+| **Nginx Proxy Manager** | Reverse Proxy | `Open Source` | `Free` |
+| **WireGuard** | VPN Protocol | `Open Source` | `Free` |
+| **Pi-hole** | DNS Sinkhole | `Open Source` | `Free` |
+| **Cloudflare Tunnel** | Secure Tunnel | `Proprietary` | `Free` |
+
+### DNS & Networking
+
+| Tool | Type | License | Cost | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **DigitalPlat** | Domain Provider | `Proprietary` | `Free` | [Website](https://domain.digitalplat.org/) |
+| **FreeDNS** | Dynamic DNS | `Proprietary` | `Free` | [Website](https://freedns.afraid.org/)
 
 ## General Utilities
 
@@ -65,6 +82,6 @@
 
 ## Media
 
-| Tool | Type | License | Cost | Description |
+| Tool | Type | License | Cost | LIink | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| **FMHY** | Resource | `Public` | `Free` | Wiki for piracy safety |
+| **FMHY** | Resource | `Public` | `Free` | [Website](https://fmhy.net/) | Wiki for piracy safety |
