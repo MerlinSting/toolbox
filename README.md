@@ -7,6 +7,7 @@
 | **VS Code** | IDE | `Open Source` | `Free` |
 | **Android Studio** | IDE | `Open Core` | `Free` |
 | **adb** | Utility | `Open Source` | `Free` |
+| Git | Utility | Open Source | Free |
 | **Oh-My-Posh** | Aesthetic | `Open Source` | `Free` |
 | **Python** | Language | `Open Source` | `Free` |
 | **C / C++** | Language | `Standard` | `Free` |
@@ -17,6 +18,20 @@
 | :--- | :--- | :--- | :--- |
 | **Docker** | Virtualization | `Open Source` | `Free` |
 | **RustDesk** | Remote Access | `Open Source` | `Free` |
+
+## General Utilities
+
+| Tool | Type | License | Cost |
+| :--- | :--- | :--- | :--- |
+| **PowerToys** | System Utilities | `Open Source` | `Free` |
+| **7-Zip** | Archive | `Open Source` | `Free` |
+
+## Privacy & Security
+
+| Tool | Type | License | Cost |
+| :--- | :--- | :--- | :--- |
+| **Bitwarden** | Passwords | `Open Source` | `Free` |
+| **uBlock Origin** | Adblock | `Open Source` | `Free` |
 
 ## Productivity
 
